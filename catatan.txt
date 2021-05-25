@@ -1,0 +1,2 @@
+di .gitignore hapus ./gradle agar gradle bisa di push ke
+gihtub dan digunakan circle ci
